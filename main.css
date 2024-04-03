@@ -1,0 +1,11 @@
+* {
+    background-color: lightblue;
+}
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+
+.buttons_centered {
+    text-align: center;
+}
